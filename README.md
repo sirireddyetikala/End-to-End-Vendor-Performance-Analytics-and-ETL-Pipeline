@@ -162,7 +162,7 @@ Inventory Turnover = Total Sales Quantity / Total Purchase Quantity
 
 * Low-performing vendors achieved higher average profit margins but generated lower sales volumes.
 * High-performing vendors relied on volume-driven profitability strategies.
-* 
+  
 ### Result
 
 The null hypothesis was rejected, confirming statistically significant differences in vendor profitability models.
