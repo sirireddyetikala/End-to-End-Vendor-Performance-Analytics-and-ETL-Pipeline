@@ -162,18 +162,7 @@ Inventory Turnover = Total Sales Quantity / Total Purchase Quantity
 
 * Low-performing vendors achieved higher average profit margins but generated lower sales volumes.
 * High-performing vendors relied on volume-driven profitability strategies.
-
----
-
-## 📉 Statistical Analysis
-
-A hypothesis test was conducted to compare profit margins between high-performing and low-performing vendors.
-
-### Hypotheses
-
-* **H₀:** No significant difference exists in profit margins between vendor groups.
-* **H₁:** A significant difference exists in profit margins between vendor groups.
-
+* 
 ### Result
 
 The null hypothesis was rejected, confirming statistically significant differences in vendor profitability models.
